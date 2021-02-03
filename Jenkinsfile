@@ -1,4 +1,4 @@
-
+#pipeline
 pipeline{
     tools{
         jdk 'myjava'
